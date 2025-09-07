@@ -1,0 +1,6 @@
+{
+  "buildCommand": "bash .vercel/build.sh",
+  "outputDirectory": "public",
+  "installCommand": "gem install bundler && bundle install",
+  "framework": null
+}
