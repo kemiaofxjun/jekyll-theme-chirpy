@@ -1,3 +1,10 @@
+## 本地预览
+
+```bash
+bundle exec jekyll serve
+```
+---
+
 <!-- markdownlint-disable-next-line -->
 <div align="center">
 
